@@ -20,4 +20,8 @@ public class HttpStatusImageDownloader {
         }
     }
 
+//    public static void main(String[] args) throws Exception {
+//        new HttpStatusImageDownloader().downloadStatusImage(200);
+//    }
+
 }
