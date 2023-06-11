@@ -33,4 +33,4 @@ public class HttpImageStatusCli {
 //        httpImageStatusCli.askStatus();
 //    }
 }
-//statusCode.matches("\\d+")
+
